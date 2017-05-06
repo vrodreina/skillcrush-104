@@ -1,0 +1,30 @@
+.vickireina-advice h1 {
+	color: indianred;
+	font-family: Arial;
+	font-size: 30px;
+	}
+
+.vickireina-advice h4 {
+	color: goldenrod;
+    	font-family: Arial;
+			font-size: 25px;
+	margin-left: 100px;
+	}
+
+.vickireina-advice p {
+	color: white;
+    	font-family:Georgia;
+			font-size: 13px;
+	}
+
+.vickireina-advice body {
+	background-color: darkslategrey;
+	}
+
+.vickireina-advice #footer {
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px;
+	color: gainsboro;
+	font-family: Arial;
+	font-size: 14px;
+	}
